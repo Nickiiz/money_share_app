@@ -78,7 +78,7 @@ class _InputMoneyShareUIState extends State<InputMoneyShareUI> {
         FocusManager.instance.primaryFocus?.unfocus();
       },
       child: Scaffold(
-        backgroundColor: Color.fromARGB(255, 238, 140, 172),
+        backgroundColor: Color.fromARGB(255, 192, 111, 138),
         appBar: AppBar(
           backgroundColor: const Color.fromARGB(255, 235, 69, 57),
           title: Text(
